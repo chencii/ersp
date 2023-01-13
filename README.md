@@ -9,5 +9,3 @@ education resource sharing platform
 
 区块链部分参考fabric
 
-加油干   
-git 好难///
