@@ -14,6 +14,7 @@ app.get('*', function (req, res) {
     var html = fs.readFileSync(path.resolve(__dirname, '../dist/index.html'), 'utf-8');
     res.send(html);
 });
+ 
 
 // 监听
 app.listen(8081, function () {
